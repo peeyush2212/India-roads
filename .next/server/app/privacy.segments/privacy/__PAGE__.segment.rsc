@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/0ci9i7maabfmq.js","/_next/static/chunks/0jrfhkj190udt.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0._dqzchy_oy3.js","/_next/static/chunks/0l3btja4-os5r.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"prose prose-sm max-w-3xl dark:prose-invert","children":[["$","h1",null,{"children":"Privacy"}],["$","p",null,{"children":"This demo stores scenarios and the “premium unlocked” flag locally in your browser (localStorage). No personal data is sent to a server unless you configure Stripe and click the Stripe checkout button."}],["$","p",null,{"children":"If you deploy this publicly, consider adding analytics and a proper privacy notice appropriate to your use case."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Agt5fXUHfiBSatG2b4bq4"}
+4:null

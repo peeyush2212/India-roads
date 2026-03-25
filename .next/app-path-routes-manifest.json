@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/stripe/create-checkout-session/route": "/api/stripe/create-checkout-session",
+  "/data-model/page": "/data-model",
+  "/explorer/page": "/explorer",
+  "/page": "/",
+  "/premium/page": "/premium",
+  "/privacy/page": "/privacy",
+  "/terms/page": "/terms"
+}

@@ -1,0 +1,3 @@
+module.exports=[33354,(a,b,c)=>{"use strict";c._=function(a){return a&&a.__esModule?a:{default:a}}},86304,a=>{"use strict";var b=a.i(87924),c=a.i(187),d=a.i(68114);let e=(0,c.cva)("inline-flex items-center rounded-full border border-border px-2.5 py-0.5 text-xs font-medium",{variants:{variant:{default:"bg-secondary text-secondary-foreground",outline:"bg-transparent",success:"bg-green-500/10 text-green-700 border-green-500/20 dark:text-green-300",warn:"bg-yellow-500/10 text-yellow-800 border-yellow-500/20 dark:text-yellow-300"}},defaultVariants:{variant:"default"}});a.s(["Badge",0,function({className:a,variant:c,...f}){return(0,b.jsx)("div",{className:(0,d.cn)(e({variant:c}),a),...f})}])}];
+
+//# sourceMappingURL=_0n7d6kp._.js.map
